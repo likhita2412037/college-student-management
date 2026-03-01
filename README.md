@@ -25,8 +25,7 @@ It is used to manage student details, faculty information, attendance, and marks
 * Screenshots
 
  Live Application Link
-(https://creator.zoho.in/appbuilder/likhita2412037_ssn/college-student-management/settings/edit#applicationide)
-
+(https://creatorapp.zoho.in/likhita2412037_ssn/college-student-management/#Page:DashBoard)
  Developed By
 Likhita Konduru
 
